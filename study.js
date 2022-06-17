@@ -33,5 +33,8 @@ studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
 
+let catName = "Oliver";
+let catSound = "Meow!";
+
 
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
