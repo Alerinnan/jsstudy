@@ -47,4 +47,6 @@ const difference = 45 - 33;
 
 const product = 8 * 10;
 
+const quotient = 66 / 33;
+
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
