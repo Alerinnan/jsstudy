@@ -122,3 +122,8 @@ myStr += "This is the second sentence.";
 const myName = "Denis";
 const myStr = "My name is" + myName + "and I am well!";
 
+// Change code below this line
+const someAdjective = "hard";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+
