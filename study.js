@@ -43,5 +43,6 @@ console.log(FCC, fact); // Change this line
 
 const sum = 10 + 10;
 
+const difference = 45 - 33;
 
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
